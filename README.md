@@ -1,6 +1,6 @@
-# exo-5
-bleu vert 
-rouge 
+LOCAL
+bleu vert
+rouge
 jfgoizjojzefg
 zpoljpozejmojgfmojmofjmojzef
-f opmjfpojpoefzjojeopmfjopzejk,f 
+f opmjfpojpoefzjojeopmfjopzejk,f
